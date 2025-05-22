@@ -1,6 +1,6 @@
 const Provost = () => {
   return (
-    <div className="hero bg-base-200 min-h-screen" style={{ backgroundColor: '#E4E0E1' }}>
+    <div className="hero bg-base-200 min-h-screen" >
       <div className="hero-content flex-col lg:flex-row">
         <img
           src="https://ctmirror.org/wp-content/uploads/2021/01/dummy-man-570x5701-1.png"
