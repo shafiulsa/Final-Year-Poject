@@ -36,7 +36,7 @@ const SeatSwap = () => {
         });
 
         // Make an API call to the backend to swap the data
-        const response = await axios.put('http://localhost:5000/swap-seats', {
+        const response = await axios.put('https://final-year-poject.onrender.com/swap-seats', {
           seat1Room,
           seat1Seat,
           seat2Room,
