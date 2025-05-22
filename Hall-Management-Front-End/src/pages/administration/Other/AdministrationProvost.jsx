@@ -9,7 +9,7 @@ const AdministrationProvost = () => {
 
                     <div className="card bg-base-100 w-96 shadow-sm">
                         <figure>
-                            <img src="../../../public/man.png" alt="provost-pic" />
+                            <img src="/public/man.png" alt="provost-pic" />
                         </figure>
                         <div className="card-body">
                             <h2 className="card-title">Dr. Md. Abu Rashed</h2>
