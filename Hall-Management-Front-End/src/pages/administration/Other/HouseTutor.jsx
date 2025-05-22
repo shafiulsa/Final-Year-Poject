@@ -16,7 +16,7 @@ const HouseTutor = () => {
                 ].map((tutor, index) => (
                     <div key={index} className="card bg-base-100 w-96 shadow-sm p-5">
                         <figure>
-                            <img src="/public/man.png" alt="tutor-pic" />
+                            <img src="https://ctmirror.org/wp-content/uploads/2021/01/dummy-man-570x5701-1.png" alt="tutor-pic" />
                         </figure>
                         <div className="card-body ">
                             <h2 className="card-title">{tutor.name}</h2>
