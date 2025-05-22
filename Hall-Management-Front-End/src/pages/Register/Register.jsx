@@ -35,7 +35,7 @@ const Register = () => {
       role:"student"
     };
 
-    fetch('http://localhost:5000/users', {
+    fetch('https://final-year-poject.onrender.com/users', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
