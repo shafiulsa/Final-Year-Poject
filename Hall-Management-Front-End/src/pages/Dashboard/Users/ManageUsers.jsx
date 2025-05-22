@@ -1,6 +1,4 @@
 
-
-
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { FaTrash, FaEdit } from 'react-icons/fa';
@@ -15,20 +13,20 @@ const UsersList = () => {
   }, []);
 
   const fetchUsers = async () => {
-    const { data } = await axios.get('http://localhost:5000/users');
+    const { data } = await axios.get('https://final-year-poject.onrender.com/users');
     setUsers(data);
   };
 
   const handleDelete = async (id) => {
     if (confirm('Are you sure you want to delete this user?')) {
-      await axios.delete(`http://localhost:5000/users/${id}`);
+      await axios.delete(`https://final-year-poject.onrender.com/users/${id}`);
       setUsers(users.filter((user) => user._id !== id));
     }
   };
 
   const handleUpdateRole = async (id) => {
     if (!newRole) return;
-    await axios.patch(`http://localhost:5000/users/${id}`, { role: newRole });
+    await axios.patch(`https://final-year-poject.onrender.com/users/${id}`, { role: newRole });
     setEditingUserId(null);
     fetchUsers(); // refresh the list
   };
