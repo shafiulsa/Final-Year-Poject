@@ -20,7 +20,7 @@ const NoticeManagement = () => {
 
   const fetchNotices = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/notices");
+      const res = await axios.get("https://final-year-poject.onrender.com/notices");
       setNotices(res.data);
     } catch (error) {
       console.error("Error fetching notices:", error);
@@ -32,7 +32,7 @@ const NoticeManagement = () => {
     const newNotice = { title, description, date };
 
     try {
-      await axios.post("http://localhost:5000/notices", newNotice);
+      await axios.post("https://final-year-poject.onrender.com/notices", newNotice);
       setTitle("");
       setDescription("");
       setDate("");
@@ -45,7 +45,7 @@ const NoticeManagement = () => {
 
   const handleDelete = async (id) => {
     try {
-      await axios.delete(`http://localhost:5000/notices/${id}`);
+      await axios.delete(`https://final-year-poject.onrender.com/notices/${id}`);
       setNotices(notices.filter((notice) => notice._id !== id));
       alert("Notice deleted successfully!");
     } catch (error) {
@@ -69,7 +69,7 @@ const NoticeManagement = () => {
     };
 
     try {
-      await axios.put(`http://localhost:5000/notices/${id}`, updatedNotice);
+      await axios.put(`https://final-year-poject.onrender.com/notices/${id}`, updatedNotice);
       fetchNotices();
       setEditingId(null);
       alert("Notice updated successfully!");
