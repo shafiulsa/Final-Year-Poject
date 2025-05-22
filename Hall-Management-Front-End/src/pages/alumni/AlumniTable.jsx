@@ -8,7 +8,7 @@ const AlumniTable = () => {
 
     // Fetch alumni data when the component mounts
     useEffect(() => {
-        axios.get('http://localhost:5000/alumni')
+        axios.get('https://final-year-poject.onrender.com/alumni')
             .then((response) => {
                 setAlumni(response.data);
             })
