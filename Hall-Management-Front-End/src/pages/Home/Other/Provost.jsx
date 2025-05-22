@@ -7,18 +7,27 @@ const Provost = () => {
 style={{ backgroundColor: 'E4E0E1' }}>
   <div className="hero-content flex-col lg:flex-row">
     <img
-      src="/public/man.png"
+      src="https://ctmirror.org/wp-content/uploads/2021/01/dummy-man-570x5701-1.png"
       className="max-w-sm rounded-lg shadow-2xl" />
     <div>
       <h1 className="text-5xl font-bold">MESSAGE FROM THE PROVOST</h1>
       <h3>Dr. Md. Abu Rashed</h3>
       <p className="py-6">
-        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-        quasi. In deleniti eaque aut repudiandae et a id nisi.
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus laborum similique beatae ipsam ea, eos cupiditate ut a illo sequi quidem optio distinctio culpa non odio ex, officiis sapiente reprehenderit architecto officia voluptatibus aliquam. Architecto quis dolor delectus placeat tempora ipsa? Quia optio aspernatur ullam sint odit ipsam libero doloremque quam quidem fugit labore iure non laboriosam iste, animi ad dolorum fugiat sed! Eius nulla praesentium expedita cum maiores dicta minus delectus ad. Laboriosam dolorum, eum vitae quidem tempora ullam maxime repudiandae expedita harum porro placeat sed soluta aliquid a aliquam obcaecati, molestias esse rem ducimus! Quidem quo provident non.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam dolorem deserunt rem neque. Atque hic in praesentium, at amet aspernatur saepe iste quaerat commodi deserunt, maxime enim accusantium. Assumenda culpa animi odio dignissimos iste vero distinctio? Vel labore aliquid, perspiciatis consectetur velit est placeat, officia quas magnam, maxime in facere beatae? Natus est laboriosam, ipsa dolor asperiores perferendis placeat, doloremque ex cupiditate voluptatibus voluptatem repellendus incidunt quas eveniet consequuntur fuga optio fugiat? Vel sint impedit voluptates vero dolor delectus ut, repellat tenetur fugiat quae quia, eos deleniti, aperiam sunt? Saepe, dolorem! Veritatis commodi magni, dolor aut error placeat quod cupiditate.
+It is my great pleasure to welcome you to Sheikh Rasel Hall, one of the prominent residential halls of Mawlana Bhashani Science and Technology University (MBSTU). Named in memory of Sheikh Russel, the youngest son of the Father of the Nation, Bangabandhu Sheikh Mujibur Rahman, our hall stands as a symbol of discipline, dedication, and academic excellence.
 
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, facere doloremque. Ea ipsa et voluptatum temporibus officia sint animi, voluptas eligendi suscipit explicabo maxime inventore autem quisquam, illum iste perspiciatis eveniet maiores nemo ex laudantium eum? Labore numquam laborum cum minima ex placeat quo deserunt tenetur at dolore explicabo maxime, doloribus consequatur commodi saepe suscipit quia, reprehenderit facilis repudiandae recusandae officia? Assumenda eius libero odit possimus? Eaque dolorem tenetur sint dolorum illo! Iure architecto officia corporis quos labore! Nostrum, ratione nam commodi officiis fuga voluptatibus, obcaecati aliquam iusto officia, totam aut consequuntur. Doloremque eveniet natus pariatur, optio totam similique mollitia assumenda velit. Veritatis quo qui provident, consequuntur dolorum nesciunt quidem deserunt, explicabo aliquid vel nulla voluptatum possimus. Explicabo ipsa et voluptatum, corrupti fuga, eum ullam recusandae quae eligendi molestiae hic vel nulla maiores aut quos adipisci. Reprehenderit odit nemo dolorem libero ad ex, magnam quos. Nemo sint laborum ea modi.
+</br> At Sheikh Rasel Hall, we strive to foster a nurturing environment that promotes not only academic growth but also moral values, leadership, and community living. Our goal is to ensure a secure, inclusive, and student-friendly atmosphere where every resident can thrive and fulfill their potential.
+
+</br> As the Provost, I am committed to maintaining a healthy residential life, resolving student concerns, and upholding the traditions of this esteemed institution. I believe that with mutual respect, cooperation, and a focus on education, our students will emerge as responsible citizens and future leaders of the nation.
+
+I encourage all students to take full advantage of the facilities, respect the rules of the hall, and actively participate in co-curricular and cultural activities. Together, let us build a hall community that reflects the values of harmony, respect, and progress.
+
+Thank you for being a part of Sheikh Rasel Hall.
+
+Warm regards,
+Dr. Md. Abu Rashed
+Provost
+Sheikh Rasel Hall
+Mawlana Bhashani Science and Technology University (MBSTU)
       </p>
      
     </div>
