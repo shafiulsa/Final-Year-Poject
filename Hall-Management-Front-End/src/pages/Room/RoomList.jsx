@@ -3,7 +3,7 @@ import axios from "axios";
 import { Link, useParams } from "react-router-dom";
 import SwapSeat from "../SwapSeat/SwapSeat";
 
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://final-year-poject.onrender.com";
 
 const RoomList = () => {
     const { floorNumber } = useParams();
