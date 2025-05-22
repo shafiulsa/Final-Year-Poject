@@ -13,6 +13,7 @@ style={{ backgroundColor: 'E4E0E1' }}>
       <h1 className="text-5xl font-bold">MESSAGE FROM THE PROVOST</h1>
       <h3>Dr. Md. Abu Rashed</h3>
       <p className="py-6">
+          
 It is my great pleasure to welcome you to Sheikh Rasel Hall, one of the prominent residential halls of Mawlana Bhashani Science and Technology University (MBSTU). Named in memory of Sheikh Russel, the youngest son of the Father of the Nation, Bangabandhu Sheikh Mujibur Rahman, our hall stands as a symbol of discipline, dedication, and academic excellence.
 
 </br> At Sheikh Rasel Hall, we strive to foster a nurturing environment that promotes not only academic growth but also moral values, leadership, and community living. Our goal is to ensure a secure, inclusive, and student-friendly atmosphere where every resident can thrive and fulfill their potential.
