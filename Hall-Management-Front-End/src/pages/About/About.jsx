@@ -8,7 +8,7 @@ const About = () => {
             <div className="mainDiv max-w-7xl mx-auto align-middle mt-10 mb-10">
                 <h1 className="text-center text-5xl font-bold mt-10 mb-10">About Sheikh Russel Hall</h1>
                 <div className="grid grid-cols-4 gap-6 items-center">
-                    <img src="../../../public/home.jpeg" alt="Bijoy-24" className="w-full h-auto col-span-1 rounded-lg" />
+                    <img src="https://ctmirror.org/wp-content/uploads/2021/01/dummy-man-570x5701-1.png" alt="Bijoy-24" className="w-full h-auto col-span-1 rounded-lg" />
                     <p className="col-span-3 text-justify">
                     Sheikh Russel Hall is one of the prominent male residential facilities at Mawlana Bhashani Science and Technology University (MBSTU), located in Tangail, Bangladesh. Named in honor of Sheikh Russel, the youngest son of Bangladesh's founding leader, Bangabandhu Sheikh Mujibur Rahman, the hall reflects the nation's respect for its historical figures. The university offers several residential halls to accommodate its students, including Sheikh Russel Hall, which provides essential amenities to ensure a comfortable living environment conducive to academic pursuits                        <br /><br />
  <br />
