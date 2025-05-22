@@ -3,7 +3,7 @@ import axios from "axios";
 import { useParams, Link } from "react-router-dom";
 
 // Base API URL
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://final-year-poject.onrender.com";
 
 // Reusable TableRow Component
 const TableRow = ({ label, value }) => (
