@@ -7,7 +7,7 @@ const Provost = () => {
 style={{ backgroundColor: 'E4E0E1' }}>
   <div className="hero-content flex-col lg:flex-row">
     <img
-      src="../../../../public/man.png"
+      src="/public/man.png"
       className="max-w-sm rounded-lg shadow-2xl" />
     <div>
       <h1 className="text-5xl font-bold">MESSAGE FROM THE PROVOST</h1>
