@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { Link, useParams } from "react-router-dom";
 
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://final-year-poject.onrender.com";
 
 const RoomDetails = () => {
   const { roomNumber } = useParams();
