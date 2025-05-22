@@ -3,7 +3,7 @@ import axios from "axios";
 import { useParams, useNavigate } from "react-router-dom";
 import Swal from "sweetalert2";
 
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://final-year-poject.onrender.com";
 
 const UpdateSeat = () => {
     const { roomNumber, seatId } = useParams(); // Get roomNumber and seatId from URL parameters
