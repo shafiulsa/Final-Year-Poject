@@ -9,7 +9,7 @@ const Footer = () => {
 
     <img       width="100"
       height="100"
-       src="../../../public/MBSTU_Logo.png" alt="" />
+       src="https://cdn-ilddgbh.nitrocdn.com/KCiiUwRzwPIrRDjogfTRMgHMpGyyzAgg/assets/images/optimized/rev-f7111be/mbstu.ac.bd/wp-content/uploads/2023/08/MBSTU_logo.png" alt="" />
     <p>
     Sheikh Russel Hall
       <br />
